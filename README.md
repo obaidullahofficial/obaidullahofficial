@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Obaidullah
 
-<!--
-**obaidullahofficial/obaidullahofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student | 💻 Web & App Developer | 🚀 Learning DevOps & Cyber Security  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+- 🔭 I’m working on web & mobile projects  
+- 🌱 Currently learning **React, DevOps, Cloud**
+- 💡 Interested in **Cyber Security & Automation**
+- 📫 Reach me on GitHub
+
+---
+
+## 🛠️ Skills
+- HTML, CSS, JavaScript  
+- React  
+- Git & GitHub  
+- Basic DevOps tools  
+
+---
+
+## 📌 My Projects
+- 🔹 Web Portfolio  
+- 🔹 React Lab Projects  
+- 🔹 Mobile App Projects  
+
+---
+
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=obaidullahofficial&show_icons=true)
