@@ -33,11 +33,23 @@ An aspiring IT professional and software engineer focused on creating clean, sca
 
 ---
 
-## 📊 GitHub Performance
+## 📊 GitHub Stats
 
-| GitHub Stats | Top Languages |
-|-------------|---------------|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=obaidullahofficial&show_icons=true&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=obaidullahofficial&layout=compact&theme=radical) |
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=obaidullahofficial&show_icons=true&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=obaidullahofficial&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Activity
+
+![GitHub Contribution Snake](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+> ⚠️ Requires GitHub Actions setup to animate the snake.
 
 ---
 
